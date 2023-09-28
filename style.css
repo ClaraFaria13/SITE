@@ -61,3 +61,19 @@ h3 {
     color: rgb(172, 73, 111);
 }
 
+
+#titulo {
+    font-family: sans-serif;
+}
+
+fieldset {
+    border: 0;
+}
+
+input, select {
+    border-radius: 5px;
+}
+
+table, th, td {
+    border: 2px solid color(srgb rgb(187, 59, 123));
+}
